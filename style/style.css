@@ -39,3 +39,52 @@ background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
 
 
 }
+.font{
+    width: 1300px;
+height: 6335px;
+text-align: center;
+background: #FFF;
+}
+.discount{
+    color: #FF0000;
+    text-align: center;
+font-family: Inter;
+font-size: 50px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+gap: opx;
+}
+.offer{
+    color: #FF0000;
+    text-align: center;
+font-family: Inter;
+font-size: 10px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+gap: 2px;
+}
+.calecson{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+gap: 5px;
+}
+.NewYear{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+
+}
+.main-imag{
+    width: 800.9px;
+height: 500px;
+flex-shrink: 0;
+}
+
