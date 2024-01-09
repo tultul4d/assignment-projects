@@ -265,9 +265,12 @@ width: 500px;
 
 }
 .image1{
-    width: 150px;
+    width: 300px;
 height: 150px;
 margin: 0 auto;
+text-align: center;
+border-radius: 15px;
+
 }
 .lest{
     color: #070211;
@@ -393,4 +396,14 @@ position: relative;
 .btn-2{
     border-radius: 0px 70px 70px 0px;
 background: #F00;
+}
+/* footer style*/
+footer{
+    display: flex;
+    background: #6f6388;
+    width: 800px;
+height: 400px;
+flex-shrink: 0;
+margin: 40px 40px 150px 250px ;
+    
 }
